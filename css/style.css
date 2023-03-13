@@ -1,0 +1,109 @@
+body{
+    margin: 0%;
+    text-align: center;
+}
+h1{
+    margin: 0 auto 0 auto; 
+    font-size: 5.652em;
+    font-family: 'Sacramento', cursive ;
+ }
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+}
+h3{
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top-container{
+     background-color: #E5D1FA;
+    position: relative;
+    padding-top: 50px;
+    margin-bottom: 0px;
+    margin: auto;
+    
+    }
+.middle-container{ 
+    background-color: #ECF2FF;
+}
+
+.cloud{
+position: relative;
+width: 20%;
+left: -35% ;
+top: 70px;
+ ;
+}
+.mountain{
+    position: relative;
+    margin-top: 7% ;
+    width: 100%;
+    border-bottom: 0px;
+}
+.profile{ 
+      padding-top: 30px  ;
+      line-height: 2;
+}
+.mu-img{
+  width: 20%;  ;
+
+}
+.skill-img{
+    width: 20%;
+    float: left;
+    margin-right : 30px;;
+}
+.skill-row{
+     width :50%;
+    line-height: 2;
+    margin: 100px auto 200px auto;
+    text-align: left;
+}
+.contact-me{ 
+    
+    margin-bottom: 20 px;
+}
+.bottom-container{
+    margin-top: 20px;
+    padding: 20px 0 10px 0 ;
+     background-color: #ca98e2;
+     
+
+}
+.btn {
+    background: #a847ad;
+    background-image: -webkit-linear-gradient(top, #a847ad, #b82b71);
+    background-image: -moz-linear-gradient(top, #a847ad, #b82b71);
+    background-image: -ms-linear-gradient(top, #a847ad, #b82b71);
+    background-image: -o-linear-gradient(top, #a847ad, #b82b71);
+    background-image: linear-gradient(to bottom, #a847ad, #b82b71);
+    -webkit-border-radius: 40;
+    -moz-border-radius: 40;
+    border-radius: 40px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 19px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #ce97cf;
+    background-image: -webkit-linear-gradient(top, #ce97cf, #9a8fba);
+    background-image: -moz-linear-gradient(top, #ce97cf, #9a8fba);
+    background-image: -ms-linear-gradient(top, #ce97cf, #9a8fba);
+    background-image: -o-linear-gradient(top, #ce97cf, #9a8fba);
+    background-image: linear-gradient(to bottom, #ce97cf, #9a8fba);
+    text-decoration: none;
+  }
+a{text-decoration: none;
+   margin:10px 30px;
+   font-family: 'Montserrat', sans-serif;
+   color: rgb(13, 2, 2);
+   
+   font-size: 20px;
+  }
+ .navbar{
+    background-color: #ca98e2;
+ }
